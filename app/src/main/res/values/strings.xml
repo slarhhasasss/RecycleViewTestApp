@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recycle View And Room Test App</string>
+    <string name="example_name">Jon Smith</string>
+    <string name="example_number">+79687037817</string>
+    <string name="btn_add_new_contact">Add new contact</string>
+    <string name="no_contacts">No contacts yet! Add the first one!</string>
+    <string name="name_hint">Name</string>
+    <string name="number_hint">Number</string>
+    <string name="nothing_was_added">Nothing was added</string>
+    <string name="enter_name">Enter name!</string>
+    <string name="enter_number">Enter number!</string>
+</resources>
